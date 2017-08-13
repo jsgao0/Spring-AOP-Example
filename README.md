@@ -1,7 +1,7 @@
 # Spring-AOP-Example
 
 ## Purpose 
-Experiment with 3 cases for examing whether the return value can be update in @AfterReturning advice.
+Experiment with 3 cases examines whether the return value can be update in @AfterReturning advice.
 
 ## Result
 |Case No.|                              Case Name| Updated|
